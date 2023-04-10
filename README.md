@@ -1,4 +1,4 @@
 # python_study
 
-## resource
+## lecture
 https://nomadcoders.co/
