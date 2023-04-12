@@ -1,3 +1,4 @@
+# python standard libray
 from random import randint
 
 pc_choice = randint(1, 50)  # import random module
