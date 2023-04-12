@@ -1,6 +1,6 @@
-## lecture
+## Lecture
 https://nomadcoders.co/
 
 
-## HTTP CODE STATUS
+## Http Code Status
 https://httpstat.us/
